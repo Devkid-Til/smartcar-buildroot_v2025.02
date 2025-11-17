@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot -g6dbb2096-dirty Configuration
+# Buildroot -g92b400b3-dirty Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 BR2_HOST_GCC_AT_LEAST_4_9=y
@@ -2728,8 +2728,7 @@ BR2_PACKAGE_TENSORFLOW_LITE_ARCH_SUPPORTS=y
 # BR2_PACKAGE_FCFT is not set
 # BR2_PACKAGE_FMT is not set
 # BR2_PACKAGE_FSTRCMP is not set
-BR2_PACKAGE_ICU=y
-BR2_PACKAGE_ICU_CUSTOM_DATA_PATH=""
+# BR2_PACKAGE_ICU is not set
 # BR2_PACKAGE_INIH is not set
 # BR2_PACKAGE_LIBCLI is not set
 # BR2_PACKAGE_LIBECOLI is not set
